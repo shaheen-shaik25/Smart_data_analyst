@@ -1,0 +1,36 @@
+order_date,region,product,category,units_sold,unit_price,revenue,customer_type
+2024-01-05,North,Laptop Pro 14,Electronics,12,1200,14400,Business
+2024-01-06,South,Wireless Mouse,Accessories,45,25,1125,Consumer
+2024-01-07,East,Office Chair,Furniture,8,180,1440,Business
+2024-01-08,West,Laptop Pro 14,Electronics,5,1200,6000,Consumer
+2024-01-10,North,Standing Desk,Furniture,3,450,1350,Business
+2024-01-11,South,Wireless Mouse,Accessories,60,25,1500,Consumer
+2024-01-13,East,USB-C Hub,Accessories,30,40,1200,Consumer
+2024-01-14,North,Laptop Pro 14,Electronics,9,1200,10800,Business
+2024-01-15,West,Office Chair,Furniture,4,180,720,Business
+2024-01-17,South,Standing Desk,Furniture,2,450,900,Consumer
+2024-01-18,East,Laptop Air 13,Electronics,15,950,14250,Consumer
+2024-01-20,North,Wireless Mouse,Accessories,80,25,2000,Consumer
+2024-01-21,West,USB-C Hub,Accessories,22,40,880,Business
+2024-01-23,South,Laptop Air 13,Electronics,7,950,6650,Business
+2024-01-24,East,Standing Desk,Furniture,6,450,2700,Business
+2024-01-27,North,Office Chair,Furniture,10,180,1800,Consumer
+2024-01-28,West,Laptop Air 13,Electronics,4,950,3800,Consumer
+2024-01-30,South,USB-C Hub,Accessories,35,40,1400,Consumer
+2024-02-02,East,Wireless Mouse,Accessories,50,25,1250,Consumer
+2024-02-03,North,Laptop Pro 14,Electronics,11,1200,13200,Business
+2024-02-05,West,Standing Desk,Furniture,5,450,2250,Business
+2024-02-06,South,Office Chair,Furniture,9,180,1620,Consumer
+2024-02-08,East,Laptop Pro 14,Electronics,6,1200,7200,Business
+2024-02-10,North,USB-C Hub,Accessories,28,40,1120,Consumer
+2024-02-11,West,Wireless Mouse,Accessories,55,25,1375,Consumer
+2024-02-13,South,Laptop Air 13,Electronics,10,950,9500,Business
+2024-02-14,East,Standing Desk,Furniture,3,450,1350,Consumer
+2024-02-17,North,Office Chair,Furniture,7,180,1260,Business
+2024-02-18,West,Laptop Pro 14,Electronics,8,1200,9600,Business
+2024-02-20,South,USB-C Hub,Accessories,40,40,1600,Consumer
+2024-02-21,East,Wireless Mouse,Accessories,65,25,1625,Consumer
+2024-02-24,North,Laptop Air 13,Electronics,12,950,11400,Consumer
+2024-02-25,West,Standing Desk,Furniture,4,450,1800,Business
+2024-02-27,South,Office Chair,Furniture,6,180,1080,Consumer
+2024-02-28,East,Laptop Pro 14,Electronics,13,1200,15600,Business

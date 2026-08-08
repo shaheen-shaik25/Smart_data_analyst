@@ -104,7 +104,7 @@ GEMINI_API_KEY=your_gemini_api_key
 ---
 
 ## ▶️ Run the Application
-=======
+
 # 📊 AI Data Analyst
 
 An AI-powered data analysis web app built with **Streamlit**, **Pandas**, **Plotly**, and the **OpenAI / Gemini API**.
@@ -139,13 +139,11 @@ cp .env.example .env
 Requires Python 3.10+.
 
 ## 2. Run
->>>>>>> 1058ae3 (Code Files)
 
 ```bash
 streamlit run app.py
 ```
 
-<<<<<<< HEAD
 Open your browser and visit:
 
 ```
@@ -255,4 +253,3 @@ Good talking points for interviews:
 ## License
 
 Free to use, modify, and include in your own portfolio.
->>>>>>> 1058ae3 (Code Files)

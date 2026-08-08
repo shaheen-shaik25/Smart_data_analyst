@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 Smart Data Analyst
 
 An AI-powered data analysis platform built with **Python**, **Streamlit**, **Pandas**, **Plotly**, and **OpenAI/Gemini APIs**. The application enables users to upload CSV or Excel datasets, perform automated exploratory data analysis (EDA), generate AI-powered business insights, ask questions in natural language, create interactive visualizations, and export professional HTML reports.
